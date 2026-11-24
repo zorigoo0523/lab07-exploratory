@@ -1,0 +1,11 @@
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100     36   0     15 100     21   2207   3090                              0100     36   0     15 100     21   2194   3072                              0100     36   0     15 100     21   2175   3045                              0
+HTTP/1.1 200 OK
+Content-Type: application/json
+Date: Tue, 24 Nov 2026 10:29:33 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"result":"OK"}
